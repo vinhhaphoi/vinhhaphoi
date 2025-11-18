@@ -1,89 +1,49 @@
+# Hey 👋, I'm Dao Quang Vinh!
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Welcome%20to%20Vinh's%20Profile!&fontSize=30&animation=fadeIn&fontColor=fff" alt="banner"/>
-</p>
+<a href="https://www.linkedin.com/in/vinhhaphoi/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/vinhhaphoi/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/vinhhaphoi/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
-<h2 align="center">👋 Hello! I'm Dao Quang Vinh</h2>
+<br />
 
-<p align="center">
-  <em>
-    Full-stack Developer · FPT University Student<br/>
-    ☕ Passionate about technology, data analysis, gaming & coffee
-  </em>
-</p>
+I am a Full Stack Developer 🌐 passionate about building scalable web applications and exploring new technologies. I love working with data 📊, learning new tech stacks 💻, and solving complex problems 🛠️.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinhhaphoi&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+![Tech Stack](https://raw.githubusercontent.com/vinhhaphoi/vinhhaphoi/main/techstack.gif)
 
----
+### 🧐 More About Me:
 
-### 🌱 Tech Stack & Skills
+- 🔭   I'm currently working on **full-stack web development projects**
+- 🤝   I'm looking to collaborate on **e-commerce platforms and data analysis projects**
+- 🌱   I'm currently learning **AWS Certifications & Advanced Django**
+- 👨🏻‍💻   Most of my projects are available on [Github](https://github.com/vinhhaphoi?tab=repositories)
+- 💬   Ask me about anything tech related, I am happy to help
+- 📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vinhhaphoi/)
+- 📚   I enjoy learning about brand analytics, statistics, and mobile gaming
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contentful-2E3B36?style=for-the-badge&logo=contentful&logoColor=white"/>
-</p>
+### 🔨 Languages and Tools:
 
----
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="filter: invert(1);" />
+<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+
+<br />
+<br />
+
+### 📊 GitHub Stats
+
+[Stats Overview](https://github.com/vinhhaphoi/github-stats-transparent)
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [ctf-platform](https://github.com/vinhhaphoi/ctf-platform) | PenTesting training platform for security enthusiasts | Python, Django, MySQL |
-| [mas202-bank-marketing-dataset](https://github.com/vinhhaphoi/mas202-bank-marketing-dataset) | Bank marketing data analysis & insights | Python, Pandas, Statistics |
+- **[ctf-platform](https://github.com/vinhhaphoi/ctf-platform)** - PenTesting training platform (Python, Django, MySQL)
+- **[mas202-bank-marketing-dataset](https://github.com/vinhhaphoi/mas202-bank-marketing-dataset)** - Bank marketing data analysis (Python, Pandas)
 
 ---
 
-### 💡 Currently Learning & Exploring
-
-- 🔐 AWS Certifications & Cloud Architecture
-- 🏦 Payment Gateway Integration (VNPay, Stripe)
-- 📊 Advanced Data Analytics & Machine Learning
-- 🎨 Advanced Frontend Optimization
-- 📈 Brand Analytics & Marketing Research
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://facebook.com/vinhhaphoi2">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/vinhhaphoi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:vinhhaphoi.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-### 📈 Activity Overview
-
-\`\`\`
-📌 Repositories: Full-stack web development & data analysis
-🔧 Main Focus: E-commerce platforms, CTF security, Data insights
-🎯 Passion: Building scalable solutions & solving complex problems
-☕ Fuel: Coffee, code, and continuous learning
-\`\`\`
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" alt="footer"/>
-</p>
-
-<p align="center">
-  <strong>⭐ If you like what you see, feel free to star some repos! ⭐</strong>
-</p>
+⭐️ If you like what you see, feel free to star some repos!
