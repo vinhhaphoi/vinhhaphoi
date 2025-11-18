@@ -8,7 +8,7 @@
 
 I am a Full Stack Developer 🌐 passionate about building scalable web applications and exploring new technologies. I love working with data 📊, learning new tech stacks 💻, and solving complex problems 🛠️.
 
-![Tech Stack](https://raw.githubusercontent.com/vinhhaphoi/vinhhaphoi/main/techstack.gif)
+![Tech Stack](./techstack.gif)
 
 ### 🧐 More About Me:
 
