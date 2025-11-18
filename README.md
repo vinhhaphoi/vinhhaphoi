@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Welcome%20to%20Vinh's%20Profile!&fontSize=30&animation=fadeIn&fontColor=fff" alt="banner"/>
