@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/vinhhaphoi/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/vinhhaphoi/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
-<br />
+<br>
 
 I am a Full Stack Developer 🌐 passionate about building scalable web applications and exploring new technologies. I love working with data 📊, learning new tech stacks 💻, and solving complex problems 🛠️.
 
