@@ -38,7 +38,6 @@ I am a Full Stack Developer 🌐 passionate about building scalable web applicat
 
 </a>
 
-<br>
 
 ### 🚀 Featured Projects
 
